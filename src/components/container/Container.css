@@ -1,0 +1,21 @@
+.Container {
+    padding: 10px;
+    background-color: #61dafb;
+    color: black;
+    border-radius: 15px;
+    margin: 7px;
+    min-height: 100vh;
+    max-width: 80%;
+    min-width: 80%;
+}
+
+.Body-content {
+    background-color: #282c34;
+    min-height: 100vh;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}

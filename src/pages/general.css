@@ -1,0 +1,9 @@
+.Box {
+    display: flex;
+    width: 100%;
+}
+
+.Col {
+    margin: 20px;
+    width: 100%;
+}
